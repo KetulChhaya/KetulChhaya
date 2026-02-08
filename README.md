@@ -28,7 +28,7 @@ It’s designed to be **non-intrusive** : no large refactors or framework lock-i
 
 **React · D3.js · Python · Kaggle F1 Dataset**
 
-Visaulizations available at: https://formula-v.netlify.app
+Visualizations available at: https://formula-v.netlify.app
 
 An interactive data-visualization project focused on making complex Formula-1 performance data understandable through web-based visual analytics wherein I processed and merged multi-table F1 race datasets (drivers, constructors, lap times, results, qualifying) to build analysis-ready data models for visualization 
 
